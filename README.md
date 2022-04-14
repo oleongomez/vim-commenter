@@ -19,3 +19,5 @@ This is going to enter a single line comment into a python file
 More to come
 
 vim:tw=78:ts=2:sts=2:sw=2:ft=help:norl:
+This has been taken from the book Mastering VIM by Ruslan Osipov
+https://www.packtpub.com/product/mastering-vim/9781789341096
